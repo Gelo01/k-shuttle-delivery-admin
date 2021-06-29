@@ -1,0 +1,25 @@
+/** @format */
+
+.color-header {
+  color: pink !important;
+}
+
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 18px;
+  height: 1px;
+  border-radius: 1px;
+}
+#admin-dashboard {
+  .card {
+    background-color: #fff;
+  }
+  .list-group-item {
+    background-color: #fff;
+    color: #333;
+  }
+  .row1-card {
+    min-height: 280px;
+    height: 100%;
+  }
+}
