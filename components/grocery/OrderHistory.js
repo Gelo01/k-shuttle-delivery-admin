@@ -45,7 +45,7 @@ const OrderHistory = ({ data }) => {
         <p>$1.337<span>| This month</span></p>
         
         </div>
-        <div class="overflow-auto">
+        <div className="overflow-auto">
       {data.map((item) => (
               <OrderScroll item={item} key={item.id} />
             ))} 

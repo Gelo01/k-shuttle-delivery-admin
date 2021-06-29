@@ -92,14 +92,14 @@ class Login extends App {
                                 type="submit"
                                 href="/forgotpass"
                                 >  
-                            <a  class="btn btn-info" role="button">Forgot Password</a>
+                            <a  className="btn btn-info" role="button">Forgot Password</a>
                 
                             </Link>
                         </form>
                     </div>
                 </div>
-                <div class="text-center">
-                <h6 class="">This is for Professional Purposes</h6>
+                <div className="text-center">
+                <h6 className="">This is for Professional Purposes</h6>
                 <h6 >Username : admin </h6>
                 <h6 > Password: admin123</h6>
                 </div>
